@@ -76,7 +76,7 @@
           <mxGeometry x="167.5" y="320" width="137.5" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zm6lNL9CIixs5jg2WKDq-11" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="320" width="130" height="260" as="geometry" />
+          <mxGeometry x="495" y="330" width="130" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zm6lNL9CIixs5jg2WKDq-12" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="605" width="130" height="260" as="geometry" />
@@ -102,14 +102,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8or0oFlPpaBkx01CUEu3-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;" edge="1" parent="1" target="zm6lNL9CIixs5jg2WKDq-3">
+        <mxCell id="8or0oFlPpaBkx01CUEu3-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1" source="8or0oFlPpaBkx01CUEu3-1" target="zm6lNL9CIixs5jg2WKDq-11">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="450" y="270" as="sourcePoint" />
-            <mxPoint x="550" y="270" as="targetPoint" />
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="500" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="271" />
-              <mxPoint x="430" y="271" />
-              <mxPoint x="430" y="465" />
+              <mxPoint x="413" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
